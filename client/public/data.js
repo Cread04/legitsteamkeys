@@ -1,4 +1,4 @@
-[
+const data = [
   {
     "laptop_name": "GIGABYTE AERO 15-X9-9RT4K5MP 15.6\" 4K/UHD IPS Intel Core i9 8th Gen 8950HK (2.90 GHz) NVIDIA GeForce RTX 2070 32 GB Memory 1 TB SSD Windows 10 Pro 64-bit Gaming Laptop",
     "price": 3099,
@@ -3810,3 +3810,5 @@
     "ssd": "128 GB SSD"
   }
 ]
+
+export default data
